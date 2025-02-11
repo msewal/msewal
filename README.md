@@ -6,7 +6,7 @@
   <img src="https://github.com/msewal/msewal/blob/main/GIF/Hi.gif" />
 </h1>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2307F738&size=22&center=true&vCenter=true&lines=Hello+There!+;I'm+Melek...;I+am+a+Software+Engineer+%7C+Cybersecurity+Enthusiast)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2307F738&size=22&center=true&vCenter=true&lines=Hello+There!+;I'm+Melek...;........I+am+a+Software+Engineer+%7C+Cybersecurity+Enthusiast)](https://git.io/typing-svg)
 
 ### 🚀 About Me
 ```javascript
